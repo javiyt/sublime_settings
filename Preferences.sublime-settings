@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
+	"expand_tabs_on_save": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

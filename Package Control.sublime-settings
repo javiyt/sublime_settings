@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"DocBlockr",
+		"Expand Tabs on Save",
+		"INI",
+		"LESS",
+		"Phpcs",
+		"Puppet",
+		"SimplePHPSpec",
+		"Theme - Nil",
+		"Twig"
+	]
+}

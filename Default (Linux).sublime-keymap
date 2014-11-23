@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+alt+c"], "command": "phpcs_fix_this_file" },
+    { "keys": ["ctrl+shift+s"], "command": "phpcs_sniff_this_file" },
+    { "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": false } },
+]
