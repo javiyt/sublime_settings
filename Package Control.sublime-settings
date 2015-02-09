@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
@@ -6,6 +9,8 @@
 		"Expand Tabs on Save",
 		"INI",
 		"LESS",
+		"Package Control",
+		"PHP Getters and Setters",
 		"Phpcs",
 		"Puppet",
 		"SimplePHPSpec",
